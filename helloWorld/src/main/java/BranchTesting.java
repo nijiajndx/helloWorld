@@ -4,5 +4,6 @@
 public class BranchTesting {
     public static void print(){
         System.out.println("branch testing");
+        System.out.println("master again");
     }
 }
